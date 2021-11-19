@@ -15,6 +15,7 @@ import io.reactivex.rxjava3.schedulers.Schedulers
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
+    //hello
     private val TAG = "hello"
     lateinit var textView: TextView
     lateinit var observable : Observable<String>
